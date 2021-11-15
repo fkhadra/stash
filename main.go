@@ -15,7 +15,6 @@ const (
 	Apply = iota
 	Save
 	Drop
-	Ciao = ""
 )
 
 type Stash struct {
